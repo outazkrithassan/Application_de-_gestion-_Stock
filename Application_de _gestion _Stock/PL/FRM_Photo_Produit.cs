@@ -8,13 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Application_de__gestion__Stock
+namespace Application_de__gestion__Stock.PL
 {
-    public partial class Form1 : Form
+    public partial class FRM_Photo_Produit : Form
     {
-        public Form1()
+        public FRM_Photo_Produit()
         {
             InitializeComponent();
+        }
+
+        private void pictureBox1_Click(object sender, EventArgs e)
+        {
+            Close();
         }
     }
 }

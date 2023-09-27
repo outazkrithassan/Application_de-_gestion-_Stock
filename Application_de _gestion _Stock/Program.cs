@@ -16,7 +16,7 @@ namespace Application_de__gestion__Stock
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new PL.FRM_Menu());
         }
     }
 }

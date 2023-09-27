@@ -1,0 +1,15 @@
+﻿Le modèle a été généré avec des avertissements ou des erreurs.DbStock.edmxConsultez la Liste d'erreurs pour plus d'informations. Ces problèmes doivent être résolus avant l'exécution de votre application.
+Le chargement des métadonnées à partir de la base de données a pris 00:00:01.1267479.
+La génération du modèle a pris 00:00:02.3151553.
+Le modèle a été généré avec des avertissements ou des erreurs.DbStock.edmxConsultez la Liste d'erreurs pour plus d'informations. Ces problèmes doivent être résolus avant l'exécution de votre application.
+Le chargement des métadonnées à partir de la base de données a pris 00:00:00.5435243.
+La génération du modèle a pris 00:00:00.4110827.
+Fichier de modèle généré : DbStock.edmx.
+Le chargement des métadonnées à partir de la base de données a pris 00:00:00.6848235.
+La génération du modèle a pris 00:00:01.4906523.
+Fichier de modèle généré : DbStock.edmx.
+Le chargement des métadonnées à partir de la base de données a pris 00:00:00.7461828.
+La génération du modèle a pris 00:00:01.3944526.
+Fichier de modèle généré : DbStock.edmx.
+Le chargement des métadonnées à partir de la base de données a pris 00:00:00.8332360.
+La génération du modèle a pris 00:00:00.4389136.

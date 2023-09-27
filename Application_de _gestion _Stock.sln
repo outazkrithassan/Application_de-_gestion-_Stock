@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.33919.361
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application_de _gestion _Stock", "Application_de _gestion _Stock\Application_de _gestion _Stock.csproj", "{DE6E9329-9EC1-4E9C-B147-AA20D3538B20}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application_de_gestion_Stock", "Application_de _gestion _Stock\Application_de_gestion_Stock.csproj", "{DE6E9329-9EC1-4E9C-B147-AA20D3538B20}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
